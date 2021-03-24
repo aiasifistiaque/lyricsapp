@@ -1,7 +1,7 @@
 //
 
-export const apiKey = '4481fbdd2cbeb544778c7fb9b38337bc';
-export const key = '&apikey=4481fbdd2cbeb544778c7fb9b38337bc';
+export const apiKey = '';
+export const key = '&apikey=';
 export const url = 'https://api.musixmatch.com/ws/1.1/';
 export const charts =
 	'chart.tracks.get?chart_name=top&page=1&page_size=10&country=us&f_has_lyrics=1&apikey=4481fbdd2cbeb544778c7fb9b38337bc';
